@@ -7,16 +7,22 @@ This project aims to revolutionize surveillance systems by integrating computer 
 🔥 Key Features
 
 ✅ AI-Powered Object Detection – Uses deep learning models to detect and track objects.
+
 ✅ Real-Time Monitoring – Processes live video feeds for instant analysis.
+
 ✅ IoT Integration – Connects with smart devices for automated alerts and responses.
+
 ✅ Anomaly Detection – Identifies suspicious activities with AI-based pattern recognition.
+
 ✅ Cloud & Edge Processing – Supports both local and cloud-based data processing.
 
 🛠 Technologies Used
 
 1. Python, OpenCV, TensorFlow / PyTorch
-2. YOLO / Faster R-CNN for object detection
-3. Flask / FastAPI for web-based monitoring
+   
+3. YOLO / Faster R-CNN for object detection
+ 
+5. Flask / FastAPI for web-based monitoring
 
 🛠 Installation & Usage
 
@@ -39,6 +45,8 @@ To start real-time monitoring:
 📌 Future Enhancements
 
 🚀 Face Recognition for identity verification
+
 🚀 Automated Emergency Alerts via SMS/Email
+
 🚀 AI-Powered Predictive Analytics for security insights
 
